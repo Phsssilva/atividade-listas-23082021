@@ -1,0 +1,30 @@
+
+body{
+    font-family: 'Times New Roman';
+    background-color: rgb(17, 12, 12);
+    font-style:inherit;
+    color: grey;
+    text-align: justify;
+    
+}
+p{
+    font-size: 20px;
+    color: grey;
+    text-align: justify;
+}
+h1{
+    font-size: 30 ;
+    color: grey;
+    text-align: justify;
+}
+h2{
+    font-size: 25;
+    color: grey;
+    text-align: justify;
+}
+a{
+    font-size: 17;
+    color: yellow;
+    text-align: justify;
+     
+}
